@@ -1,1 +1,1 @@
-# steganography_class
+# Steganography_class
